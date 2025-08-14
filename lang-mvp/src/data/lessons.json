@@ -1,0 +1,63 @@
+[
+	{
+		"language": "Spanish",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Basic Greetings",
+				"questions": [
+					{
+						"type": "multiple-choice",
+						"question": "How do you say 'Hello' in Spanish?",
+						"options": ["Hola", "Adiós", "Gracias"],
+						"answer": "Hola"
+					},
+					{
+						"type": "fill-in-the-blank",
+						"question": "Goodbye in Spanish is ____",
+						"answer": "Adiós"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"title": "Common Words",
+				"questions": [
+					{
+						"type": "multiple-choice",
+						"question": "Thank you in Spanish is:",
+						"options": ["Perdón", "Gracias", "Por favor"],
+						"answer": "Gracias"
+					},
+					{
+						"type": "fill-in-the-blank",
+						"question": "Please in Spanish is ____",
+						"answer": "Por favor"
+					}
+				]
+			}
+		]
+	},
+	{
+		"language": "French",
+		"lessons": [
+			{
+				"id": 1,
+				"title": "Salutations",
+				"questions": [
+					{
+						"type": "multiple-choice",
+						"question": "How do you say 'Hello' in French?",
+						"options": ["Bonjour", "Au revoir", "Merci"],
+						"answer": "Bonjour"
+					},
+					{
+						"type": "fill-in-the-blank",
+						"question": "Goodbye in French is ____",
+						"answer": "Au revoir"
+					}
+				]
+			}
+		]
+	}
+]
